@@ -1,3 +1,8 @@
 Git is a version control system.
 Git is a free software.
-Creat a new branch is fast & simple
+<<<<<<< HEAD
+Creat a new branch is fast and simple
+=======
+Creat a new branch is fast AND simple
+
+>>>>>>> feature
